@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Beer Advisor</string>
+    <string name="find_beer">Find Beer</string>
+    <string name="beers"> </string>
+
+    <string-array name="beer_types">
+        <item>Italian</item>
+        <item>Brazilian</item>
+        <item>American</item>
+        <item>Ghanaian</item>
+    </string-array>
+</resources>
